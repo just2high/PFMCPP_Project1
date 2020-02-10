@@ -33,89 +33,113 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: dog
+ action 1: dog barks
+ action 2: roll over
+ action 3: fetch
  */
-
+dog.barks();
+dog.rollOver();
+dog.fetch();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: box
+ action 1: box opens
+ action 2: unfolds
+ action 3: stacks
  */
+box.opens();
+box.unfolds();
+box.stacks();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cup
+ action 1: filled with water
+ action 2: changes color
+ action 3: pours 
  */
-
+cup.fillWater();
+cup.changeColor();
+cup.pour();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: athlete
+ action 1: jumps
+ action 2: runs
+ action 3: pole vaults
  */
+athlete.jump();
+athelete.run();
+athlette.poleVault();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: camera
+ action 1: take picture
+ action 2: zoom in
+ action 3: zoom out
  */
-
+camera.takePicture();
+camera.zoomIn();
+camera.zoomOut();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: wand
+ action 1: cast spell
+ action 2: illuminate
+ action 3: disappear
  */
+wand.castSpell();
+wand.illuminate();
+wand.disappear();
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: airplane
+ action 1: fly
+ action 2: loop de loop
+ action 3: barrel roll
  */
-
+airplane.fly();
+airplane.loopDeLoop();
+airplane.barrelRoll();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: light saber
+ action 1: unsheath
+ action 2: melt lock
+ action 3: makes cool sound
  */
+lightSaber.unsheath();
+lightSaber.meltLock();
+lightsaber.makeCoolSound();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: bagel
+ action 1: cut in half
+ action 2: spread with cream cheese
+ action 3: eat
  */
-
+bagel.cutHalf();
+bagel.spreadCreamCheese();
+bagel.eat();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: webpage
+ action 1: reloads
+ action 2: scrolls down
+ action 3: saves
  */
-
+webpage.reload();
+webpage.scrollDown();
+webpage.save();
 
 #endif
 
