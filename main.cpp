@@ -38,9 +38,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2: roll over
  action 3: fetch
  */
-dog.barks()
-dog.rollOver ()
-dog.fetch()
+dog.barks();
+dog.rollOver();
+dog.fetch();
 
 /*
  2)
@@ -49,9 +49,9 @@ dog.fetch()
  action 2: unfolds
  action 3: stacks
  */
-box.opens()
-box.unfolds()
-box.stacks()
+box.opens();
+box.unfolds();
+box.stacks();
 
 /*
  3)
@@ -60,9 +60,9 @@ box.stacks()
  action 2: changes color
  action 3: pours 
  */
-cup.fillWater()
-cup.changeColor()
-cup.pour()
+cup.fillWater();
+cup.changeColor();
+cup.pour();
 
 /*
  4)
@@ -71,9 +71,9 @@ cup.pour()
  action 2: runs
  action 3: pole vaults
  */
-athlete.jump()
-athelete.run()
-athlette.poleVault()
+athlete.jump();
+athelete.run();
+athlette.poleVault();
 
 /*
  5)
@@ -82,9 +82,9 @@ athlette.poleVault()
  action 2: zoom in
  action 3: zoom out
  */
-camera.takePicture()
-camera.zoomIn()
-camera.zoomOut()
+camera.takePicture();
+camera.zoomIn();
+camera.zoomOut();
 
 /*
  6)
@@ -93,9 +93,9 @@ camera.zoomOut()
  action 2: illuminate
  action 3: disappear
  */
-wand.castSpell()
-wand.illuminate()
-wand.disappear()
+wand.castSpell();
+wand.illuminate();
+wand.disappear();
 
 /*
  7)
@@ -104,9 +104,9 @@ wand.disappear()
  action 2: loop de loop
  action 3: barrel roll
  */
-airplane.fly()
-airplane.loopDeLoop()
-airplane.barrelRoll()
+airplane.fly();
+airplane.loopDeLoop();
+airplane.barrelRoll();
 
 /*
  8)
@@ -115,9 +115,9 @@ airplane.barrelRoll()
  action 2: melt lock
  action 3: makes cool sound
  */
-lightSaber.unsheath()
-lightSaber.meltLock()
-lightsaber.makeCoolSound()
+lightSaber.unsheath();
+lightSaber.meltLock();
+lightsaber.makeCoolSound();
 
 /*
  9)
@@ -126,9 +126,9 @@ lightsaber.makeCoolSound()
  action 2: spread with cream cheese
  action 3: eat
  */
-bagel.cutHalf()
-bagel.spreadCreamCheese()
-bagel.eat()
+bagel.cutHalf();
+bagel.spreadCreamCheese();
+bagel.eat();
 
 /*
  10)
@@ -137,9 +137,9 @@ bagel.eat()
  action 2: scrolls down
  action 3: saves
  */
-webpage.reload()
-webpage.scrollDown()
-webpage.save()
+webpage.reload();
+webpage.scrollDown();
+webpage.save();
 
 #endif
 
